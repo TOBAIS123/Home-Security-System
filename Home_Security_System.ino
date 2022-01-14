@@ -1,7 +1,5 @@
 /*
-	Erfan Y, Nicholas G, Kevin N
-	Mr. Wong
-    April 19th, 2021
+	Erfan Y, Nicholas G
     This program simulates a home security system that has many sensors
     and tools to alert and aid against home invasions. 
     	A LDR is used to turn the door lamp (white LED) on, while the potentiometer is used to control its brightness.
